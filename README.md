@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbullzy
 - 👀 I’m interested in data analytics, machine learning, and performance statistics. 
 - 🌱 I’m currently learning data analytics through Google's Data Analytics career certificate.
-- ➕ I'm also working through The Odin Project to work on basic programming skills. 
+- ➕ I'm also working through The Odin Project to polish basic programming skills. 
 
 
 - 📫 How to reach me ... bullington.jack@gmail.com
