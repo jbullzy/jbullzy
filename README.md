@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jbullzy
+- 👋 Hi, I’m Jack
 - 👀 I’m interested in web development, data analytics, machine learning, and performance statistics. 
 - 🌱 I’m currently working through The Odin Project to polish basic programming skills. 
 
